@@ -29,7 +29,7 @@ a2 = int(input())
 a3 = int(input())
 a4 = int(input())
 
-# get wight for each Neuron 
+# get weight for each Neuron 
 w1 = float(input())
 w2 = float(input())
 w3 = float(input())
