@@ -1,4 +1,4 @@
-## Computational Intelligence
+## Hosein Damavandi
 
 ### Assignment 1 :
 
