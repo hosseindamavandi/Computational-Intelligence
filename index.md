@@ -29,3 +29,9 @@ var fun = function lang(l) {
 | run 5        |[ 0.5 , -0.5 , 0 , -1 ]| 0      |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
  
 
+| number        | head two          | soma |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
