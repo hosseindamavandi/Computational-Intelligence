@@ -62,3 +62,4 @@ else:
 | run 4                |1|1|1|1|1|1|1|1|1|1 |1 |1 |1 |1 |1 |1 |
 | run 5                |0|0|0|0|0|0|0|0|1|0 |1 |0 |0 |0 |0 |0 |
 
+![image](https://user-images.githubusercontent.com/83751182/134060360-e49c5e20-c27e-4ea0-a41f-89cac861a1a3.png)
