@@ -22,11 +22,28 @@
 #### Answers:
 
 ```py
-# A biological Neuron
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+a1 = int(input())
+a2 = int(input())
+a3 = int(input())
+a4 = int(input())
+
+w1 = float(input())
+w2 = float(input())
+w3 = float(input())
+w4 = float(input())
+
+soma = float(input())
+
+sum = (a1 * w1) + (a2 * w2) + (a3 * w3) + (a4 * w4)
+
+sum *= soma
+
+if sum > 0 :
+    print(1)
+
+else:
+    print(0)
+
 ```
 
 |      -               |1 |2 |3 |4 |5 |6 |7 |8 |9 |10|11|12|13|14|15|16|
