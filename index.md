@@ -21,6 +21,7 @@
 
 #### Answers:
 
+python:
 ```py
 # get Neuron
 a1 = int(input())
@@ -40,11 +41,8 @@ soma = float(input())
 # Calculate the sum of neuron input and its weight
 sum = (a1 * w1) + (a2 * w2) + (a3 * w3) + (a4 * w4)
 
-# Multiplied by soma
-sum *= soma
-
 # Output condition
-if sum > 0 :
+if sum > soma :
     print(1)
 
 else:
@@ -58,9 +56,9 @@ else:
 |        -             |0|0|0|0|1|1|1|1|0|0 |0 |0 |1 |1 |1 |1 |
 |         -            |1|1|0|0|1|1|0|0|1|1 |0 |0 |1 |1 |0 |0 |
 |          -           |0|1|0|1|0|1|0|1|0|1 |0 |1 | 0|1 |0 |1 |
-| run 1                | | | | | | | | | | | | | | | | |
-| run 2                | | | | | | | | | | | | | | | | |
-| run 3                | | | | | | | | | | | | | | | | |
-| run 4                | | | | | | | | | | | | | | | | |
-| run 5                | | | | | | | | | | | | | | | | |
+| run 1                |||||||||||||||||
+| run 2                |||||||||||||||||
+| run 3                |||||||||||||||||
+| run 4                |||||||||||||||||
+| run 5                |||||||||||||||||
 
