@@ -2,18 +2,12 @@
 
 ### Assignment 1 :
 
-<details>
-  <summary><b>Questions</b></summary>
-<br/>
+#### Questions:
 
 ![image](https://user-images.githubusercontent.com/83751182/133993994-2c2ec93c-678d-482e-8883-b6aff540ce2b.png)
 
-</details>
 
-
-<details>
-  <summary><b>Answers</b></summary>
-<br/>
+#### Answers:
 
 ```py
 # A biological Neuron
@@ -33,6 +27,5 @@ var fun = function lang(l) {
 | run 3        |[ 2 , -1 , 1.5 , -5 ]  | 1      |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 | run 4        |[ 1 , 1 , 1 , 1 ]      | -1.5   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 | run 5        |[ 0.5 , -0.5 , 0 , -1 ]| 0      |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-  
-</details>
+ 
 
